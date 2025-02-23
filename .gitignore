@@ -1,0 +1,9 @@
+# Ignore Vim swap files
+*.swp
+*.swo
+
+# Ignore compiled binaries and temporary files
+*.o
+*.out
+*.exe
+
